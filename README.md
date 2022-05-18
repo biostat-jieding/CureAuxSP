@@ -8,6 +8,7 @@ Still in editing and please wait patiently ... Thank you!
 We main focus on cure models, including:
 - Mixture cure model (to appear)
 - Promotion time cure model (to appear)
+
 However, some other basic survival models will also be included, including:
 - Proportional hazards model or Cox model (to appear)
 - Accelerated failure time model (to appear)
