@@ -8,27 +8,26 @@ Authors@R:
          role = c("aut", "cre"),
          email = "dingjie@mail.dlut.edu.cn",
          comment = c(ORCID = "0000-0002-6083-7529")),
-  person(given = "Xiaoguang",
-         family = "Wang",
-         role = c("aut"),
-         email = "wangxg@mail.dlut.edu.cn",
-         comment = c(ORCID = "0000-0002-5598-062X")),
   person(given = "Jialiang", 
          family = "Li", 
          role = c("aut"),  
          email = "jialiang@nus.edu.sg",
-         comment = c(ORCID = "..."))
+         comment = c(ORCID = "0000-0002-9704-4135")),
+  person(given = "Xiaoguang",
+         family = "Wang",
+         role = c("aut"),
+         email = "wangxg@mail.dlut.edu.cn",
+         comment = c(ORCID = "0000-0002-5598-062X"))
   )
-Author: Jie Ding [aut, cre], Xiaoguang Wang [aut], Jialiang Li [aut]
+Author: Jie Ding [aut, cre], Jialiang Li [aut], Xiaoguang Wang [aut, cre]
 Maintainer: Jie Ding <dingjie@mail.dlut.edu.cn>
-Description: Estimate mixture/non-mixture cure models in the presence of auxiliary survival 
-  information (subgroup survival probability).
+Description: Estimate mixture cure models with subgroup survival probabilities
+  as auxiliary information.
 License: GPL (>= 2)
 Encoding: UTF-8
 Imports: Matrix, MASS, survival, lars
-Depends: R (>= 3.5.0), survival, lars
-LazyData: TRUE
+Depends: survival, lars
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2022-05-28 03:03:13 UTC; XQFDZ
+Packaged: 2024-02-07 20:11:03 UTC; biost
