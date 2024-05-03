@@ -1,7 +1,8 @@
 # CureAuxSP
 This is an R package used to fit cure models with auxiliary survival Information.
 The underlying methods are based on the paper titled "Efficient auxiliary information synthesis for cure rate model", which has been published in *Journal of the Royal Statistial Society Series C (Applied Statistics)* with DOI: 10.1093/jrsssc/qlad106.
-It can also be downloaded as a standard R package from https://cran.r-project.org/web/packages/CureAuxSP/index.html
+It can also be downloaded as a standard R package from https://cran.r-project.org/web/packages/CureAuxSP/index.html.
+We have also wrote a paper that introduces the detailed information about this package and this paper has been published in *Computer Methods and Programs in Biomedicine*.
 
 ## Package description and included main functions
 
