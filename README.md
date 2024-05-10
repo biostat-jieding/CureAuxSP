@@ -6,7 +6,7 @@ This is an R package used to fit cure models with auxiliary survival Information
 
 ## Package description and included main functions
 
-We main focus on cure models: (Semiparametric) **PH mixture cure model** or **AFT mixture cure model** *with or without* **auxiliary subgroup survival probabilities**.
+We focus on cure models: (Semiparametric) **PH mixture cure model** or **AFT mixture cure model** *with or without* **auxiliary subgroup survival probabilities**.
 
 Our provided main functions are (we refer to their help pages for more details):
 - **SMC.AuxSP**: fit the models in various ways with syntax
